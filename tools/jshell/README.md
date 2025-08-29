@@ -1,4 +1,4 @@
-# Hello world in `jshell`
+# Hello world with `jshell`
 
 To run Hello world using jshell. This command is available by default from JDK11.
 

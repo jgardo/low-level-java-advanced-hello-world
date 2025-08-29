@@ -1,4 +1,4 @@
-# Hello world in `jbang`
+# Hello world with `jbang`
 
 Jbang also allows to execute Java scripts. 
 But also allows to add additional dependencies, compilation settings and much more.
